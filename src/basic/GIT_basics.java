@@ -6,6 +6,7 @@ public class GIT_basics {
 		// TODO Auto-generated method stub
 		
 		System.out.println("First GIT repository");
+		System.out.println("New change");
 
 	}
 
